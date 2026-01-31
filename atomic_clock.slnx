@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/Properties/">
+    <File Path="Settings.settings" />
+  </Folder>
+  <Project Path="atomic_clock/atomic_clock.csproj" />
+</Solution>
