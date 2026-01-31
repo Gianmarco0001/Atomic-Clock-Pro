@@ -46,7 +46,7 @@ Per chi desidera compilare o studiare il codice sorgente, i file principali sono
 | **AboutWindow.xaml / .cs** | Finestra informativa sui crediti del progetto. |
 | **SettingsManager.cs** | Gestore personalizzato per la serializzazione JSON delle impostazioni. |
 | **Settings.settings** | Definizione delle proprietà utente e valori predefiniti. |
-| **atomicicona.ico** | Asset grafico originale |
+| **atomicicona.ico / 21752.ico** | Asset grafico originale |
 
 ---
 
