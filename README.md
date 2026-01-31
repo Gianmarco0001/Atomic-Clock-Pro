@@ -4,6 +4,9 @@ Atomic Clock Pro è un widget leggero e ad alta precisione per Windows, progetta
 
 Sviluppato in C# e WPF, questo orologio atomico si posiziona sopra la taskbar di Windows e offre una sincronizzazione in tempo reale con i server NTP mondiali, compensando automaticamente la latenza di rete.
 
+![Registrazione2026-01-31211652-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/478b4c6b-f3b0-42f2-847f-47fcdda99270)
+
+
 ## Caratteristiche Principali
 
 - **Sincronizzazione Atomica ad Alta Precisione**: Interroga i server NTP (Google, Cloudflare, INRIM) e calcola il Round Trip Time (RTT) per eliminare l'errore di latenza.
